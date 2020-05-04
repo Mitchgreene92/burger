@@ -1,0 +1,14 @@
+.jumbotron{
+	background-color: orange;
+	color: rgb(255, 0, 25);
+}
+
+body{
+	background-color: orange;
+	text-align: center;
+}
+
+h1{
+	color: black;
+	font-size: 30px;
+}
